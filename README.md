@@ -1,13 +1,14 @@
-### Yeongil Jung -- @distrue
+### Yeongil Jung
+@distrue
 
 👋 Hi! Welcome to my Github profile!
 
 ### 🔭 I’m currently working on
 - Software Maestro 11th
-- Senior student (4th grade), Information Security Division, Korea University
+- Senior student (4th grade), Cyber Defense, Korea University
 
-### 🌱 I’m currently learning
-- TypeScript, Golang, Java
+### 📚 I’m interested in
+- TypeScript, Golang, Python
 - PyTorch
 - Flutter
 - Computer Vision
