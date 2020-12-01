@@ -2,7 +2,7 @@
 @distrue
 
 👋 Hi there!
-If you want to know more about me, click my [resume]()
+If you want to know more about me, click my [resume](https://github.com/distrue/distrue/blob/master/resume.pdf)
 
 ### 🔭 I’m currently working on
 - Senior student (4th grade), Cyber Defense, Korea University
