@@ -1,8 +1,6 @@
 ### Yeongil Jung
 @distrue
 
-![distrue's github stats](https://github-readme-stats.vercel.app/api?username=distrue&show_icons=true&hide_border=true) 
-
 👋 Hi there!
 If you want to know more about me, click my [resume](https://github.com/distrue/distrue/blob/master/resume.pdf)
 
