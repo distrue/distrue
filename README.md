@@ -1,20 +1,26 @@
 ### Yeongil Jung
 @distrue
 
-👋 Hi! Welcome to my Github profile!
+👋 Hi there!
+If you want to know more about me, click my [resume]()
 
 ### 🔭 I’m currently working on
-- Software Maestro 11th
 - Senior student (4th grade), Cyber Defense, Korea University
 
 ### 📚 I’m interested in
-- TypeScript, Golang, Python
-- PyTorch
-- Flutter
-- Computer Vision
+- MR(Mixed Reality) on Mobile
+- ML Framework, especially PyTorch
+- Learning new languages and framework (TypeScript, Golang, Python)
 
-### 💻 What I uploaded in Github
-- openbuilder-node
+### 💻 What I have done
+
+- nashot: realtime golf coaching application 
+  - [landing page](https://web.nashot.io/home.html)
+  - [interview](https://blog.naver.com/sw_maestro/222120877101)  
+  
+- openbuilder-node(v.0.2.0): kakao openbuiler library written in JS 
+  - [github](https://github.com/distrue/openbuilder-node)
+  - [npm](https://www.npmjs.com/package/openbuilder-node)
 
 ### 📫 How to reach me
 - email: gil4260@korea.ac.kr
