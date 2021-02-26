@@ -5,7 +5,7 @@
 If you want to know more about me, click my [resume](https://github.com/distrue/distrue/blob/master/resume.pdf)
 
 ### 🔭 I’m currently working on
-- Senior student (4th grade), Cyber Defense, Korea University
+- research intern in [SNU HCS Lab](https://hcs.snu.ac.kr/people/)
 
 ### 📚 I’m interested in
 - MR(Mixed Reality) on Mobile
