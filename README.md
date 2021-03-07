@@ -6,11 +6,19 @@ If you want to know more about me, click my [resume](https://github.com/distrue/
 
 ### 🔭 I’m currently working on
 - research intern in [SNU HCS Lab](https://hcs.snu.ac.kr/people/)
+- junior backend developer
+  - Main language: `typescript` > `python` > `golang` (fluent level) >>> `C/C++` (only for PS)
+  - Interests: `express`, `nestJS`, `serverless`, `gin-gonic`, `grpc`
+- kakao chatbot developer (kakao i openbuilder)
+  - [homepage](https://kmong.com/gig/215251)
 
 ### 📚 I’m interested in
-- MR(Mixed Reality) on Mobile
-- ML Framework, especially PyTorch
-- Learning new languages and framework (TypeScript, Golang, Python)
+- Contribute on programming language by providing library/module (TypeScript, Golang, Python)
+- ML/DL (tensorflow, pytorch), especially on mobile ML/DL
+   - Human Pose Estimation
+   - Model pruning
+   - AutoML for constrained mobile environment (NAS: neural architecture search)
+- And also learning new things!
 
 ### 💻 What I have done
 
@@ -18,7 +26,7 @@ If you want to know more about me, click my [resume](https://github.com/distrue/
   - [landing page](https://web.nashot.io/home.html)
   - [interview](https://blog.naver.com/sw_maestro/222120877101)  
   
-- openbuilder-node(v.0.3.0): kakao openbuiler library written in JS 
+- openbuilder-node(v.0.3.0): kakao openbuiler library written in TypeScript 
   - [github](https://github.com/distrue/openbuilder-node)
   - [npm](https://www.npmjs.com/package/openbuilder-node)
 
