@@ -5,7 +5,7 @@
 If you want to know more about me, click my [resume](https://github.com/distrue/distrue/blob/master/resume.pdf)
 
 ### 🔭 I’m currently working on
-- research intern in [SNU HCS Lab](https://hcs.snu.ac.kr/people/)
+- backend developer in [Channel Corporation](https://channel.io)
 - junior backend developer
   - Main language: `typescript` > `python` > `golang` (fluent level) >>> `C/C++` (only for PS)
   - Interests: `express`, `nestJS`, `serverless`, `gin-gonic`, `grpc`
