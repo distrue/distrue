@@ -2,9 +2,9 @@
 @distrue, visit my blog! [blog](https://distrue.github.io)
 
 👋 Hi there! I'm backend developer, now working in [Channel Corporation](https://channel.io) as backend engineer.<br/>
-I mainly have developed web services using `typescript`, `java`, and `golang`.<br/>
+I mainly have developed web services using `java`, `typescript`, and `golang`.<br/>
 I'm now interested in designing bullet-proof server architecture for various services.<br/>
-I love to build simple service, library and contribute to developer ecosystem.
+I love building simple service, publishing library to contribute to developer ecosystem.
 
 ## 💻 What I have done
 
@@ -16,8 +16,7 @@ I love to build simple service, library and contribute to developer ecosystem.
     - [interview](https://blog.naver.com/sw_maestro/222120877101)
     - [press](http://www.dt.co.kr/contents.html?article_no=2021061002109931650005&ref=naver)
 
-- kakaotalk channel chatbot development support
-  - [service link](https://kmong.com/gig/215251)
+- mogakbul (preparing...)
 
 ### Library
 
