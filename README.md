@@ -7,9 +7,6 @@ I'm now interested in designing bullet-proof server architecture for various ser
 I love building simple service, publishing library to contribute to developer ecosystem.
 
 
-[![distrue's github stats](https://github-readme-stats.vercel.app/api?username=distrue&show_icons=true&theme=dracula)](https://github.com/distrue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distrue&layout=compact&langs_count=8&theme=dracula)](https://github.com/distrue)
-
 ## 💻 What I have done
 
 ### Service
