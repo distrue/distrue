@@ -16,6 +16,7 @@ I love building simple service, publishing library to contribute to developer ec
   - [npm](https://www.npmjs.com/package/openbuilder-node)
 
 - socket.io-nats-adapater
+  - Pub/Sub adapter for socket.io using nats.io as pub/sub message queue
   - [github](https://github.com/distrue/socket.io-nats-adapter)
   - [npm](https://www.npmjs.com/package/socket.io-nats-adapter)
 
