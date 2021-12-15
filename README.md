@@ -11,6 +11,17 @@ I love building simple service, publishing library to contribute to developer ec
 
 ## 💻 What I have done
 
+### Library
+
+- openbuilder-node
+  - Typescript based kakao-i-openbuilder query builder
+  - [github](https://github.com/distrue/openbuilder-node) 
+  - [npm](https://www.npmjs.com/package/openbuilder-node)
+
+- socket.io-nats-adapater
+  - [github](https://github.com/distrue/socket.io-nats-adapter)
+  - [npm](https://www.npmjs.com/package/socket.io-nats-adapter)
+
 ### Service
 
 - nashot: Human Pose Estimation (HPE) based golf coaching application 
@@ -20,10 +31,3 @@ I love building simple service, publishing library to contribute to developer ec
     - [press](http://www.dt.co.kr/contents.html?article_no=2021061002109931650005&ref=naver)
 
 - mogakbul (preparing...)
-
-### Library
-
-- openbuilder-node
-  - [github link](https://github.com/distrue/openbuilder-node) 
-  - [npm link](https://www.npmjs.com/package/openbuilder-node)
-
