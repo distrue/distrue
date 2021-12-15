@@ -6,9 +6,6 @@ I mainly have developed web services using `java`, `typescript`, and `golang`.<b
 I'm now interested in designing bullet-proof server architecture for various services.<br/>
 I love building simple service, publishing library to contribute to developer ecosystem.
 
-[![distrue's github stats](https://github-readme-stats.vercel.app/api?username=distrue&show_icons=true&theme=dracula)](https://github.com/distrue)
-
-
 ## 💻 What I have done
 
 ### Library
