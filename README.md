@@ -1,31 +1,42 @@
 ## Yeongil Jung
-@distrue, visit my blog! [blog](https://distrue.github.io)
+@distrue, If you are interested to me, also visit my [blog](https://distrue.github.io)!
 
 👋 Hi there! I'm backend developer, now working in [Channel Corporation](https://channel.io) as backend engineer.<br/>
 I mainly have developed web services using `java`, `typescript`, and `golang`.<br/>
-I'm now interested in designing bullet-proof server architecture for various services.<br/>
-I love building simple service, publishing library to contribute to developer ecosystem.
+I'm now interested in porting services to `golang` of pre-implemented in `java` or `nodeJS` in order to improve performance, high availability of service. <br/>
+I love building simple service and serving opensource library.
 
-## 💻 What I have done
+### Opensource Library
 
-### Library
+<div style="display: flex; flex-direction: row; gap: 12px; margin-top: 16px;">
+  <b style="font-size: 20px; position: relative; top: -6px;">socket.io-nats-adapter</b>
+  <a href="https://github.com/distrue/socket.io-nats-adapter">
+    <img src="github.png" width="18" />
+  </a>
+  <a href="https://www.npmjs.com/package/socket.io-nats-adapter">
+    <img src="npm.png" width="36" />
+  </a>
+</div>
+- Pub/Sub adapter for socket.io using nats.io as pub/sub message queue
 
-- openbuilder-node
-  - Typescript based kakao-i-openbuilder query builder
-  - [github](https://github.com/distrue/openbuilder-node) 
-  - [npm](https://www.npmjs.com/package/openbuilder-node)
-
-- socket.io-nats-adapater
-  - Pub/Sub adapter for socket.io using nats.io as pub/sub message queue
-  - [github](https://github.com/distrue/socket.io-nats-adapter)
-  - [npm](https://www.npmjs.com/package/socket.io-nats-adapter)
+<div style="display: flex; flex-direction: row; gap: 12px; margin-top: 16px;">
+  <b style="font-size: 20px; position: relative; top: -6px;">openbuilder-node</b>
+  <a href="https://github.com/distrue/openbuilder-node">
+    <img src="github.png" width="18" />
+  </a>
+  <a href="https://www.npmjs.com/package/openbuilder-node">
+    <img src="npm.png" width="36" />
+  </a>
+</div>
+- Typescript based kakao-i-openbuilder query builder
 
 ### Service
 
-- nashot: Human Pose Estimation (HPE) based golf coaching application 
+#### Nashot
+- Human Pose Estimation (HPE) based golf coaching application 
   - [landing page](https://web.nashot.io/home.html)
-  - article
-    - [interview](https://blog.naver.com/sw_maestro/222120877101)
-    - [press](http://www.dt.co.kr/contents.html?article_no=2021061002109931650005&ref=naver)
+  - [interview](https://blog.naver.com/sw_maestro/222120877101)
+  - [press](http://www.dt.co.kr/contents.html?article_no=2021061002109931650005&ref=naver)
 
-- mogakbul (preparing...)
+#### Mogakbul
+- preparing...
