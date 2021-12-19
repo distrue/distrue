@@ -1,10 +1,10 @@
 ## Yeongil Jung
 @distrue, If you are interested to me, also visit my [blog](https://distrue.github.io)!
 
-👋 Hi there! I'm backend developer, now working in [Channel Corporation](https://channel.io) as backend engineer.<br/>
-I mainly have developed web services using `java`, `typescript`, and `golang`.<br/>
-I'm now interested in porting services to `golang` of pre-implemented in `java` or `nodeJS` in order to improve performance, high availability of service. <br/>
-I love building simple service and serving opensource library.
+- Job: Working in [Channel Corporation](https://channel.io) as backend engineer
+- Main skill: developing web services using `java`, `typescript`, and `golang`
+- Interested in porting services to `golang` of pre-implemented in `java` or `nodeJS` in order to improve performance, high availability of service.
+- Love building simple service and serving opensource library.
 
 ### Opensource Library
 
