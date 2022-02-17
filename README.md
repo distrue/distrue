@@ -1,5 +1,4 @@
 ## Yeongil Jung
-@distrue, If you are interested to me, also visit my [blog](https://distrue.github.io)!
 
 - Job: Working in [Channel Corporation](https://channel.io) as backend engineer
 - Main skill: developing web services using `java`, `typescript`, and `golang`
