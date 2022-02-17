@@ -17,6 +17,7 @@
   </a>
 </div>
 - Pub/Sub adapter for socket.io using nats.io as pub/sub message queue
+- Preparing to open full source on public, on socket.io
 
 <div style="display: flex; flex-direction: row; gap: 12px; margin-top: 16px;">
   <b style="font-size: 20px; position: relative; top: -6px;">openbuilder-node</b>
