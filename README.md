@@ -1,11 +1,13 @@
-## Yeongil Jung
+# Yeongil Jung
+
+[![distrue's github stats](https://github-readme-stats.vercel.app/api?username=distrue&show_icons=true&theme=dracula)](https://github.com/distrue)
 
 - Job: Working in [Channel Corporation](https://channel.io) as backend engineer
 - Main skill: developing web services using `java`, `typescript`, and `golang`
-- Interested in porting services to `golang` of pre-implemented in `java` or `nodeJS` in order to improve performance, high availability of service.
-- Love building simple service and serving opensource library.
+- Confident: architect & porting services to `golang` of pre-implemented in `java` or `nodeJS` in order to improve performance, high availability of service
+- Interest: Love building simple service and serving opensource library.
 
-### Opensource Library
+## Opensource Library
 
 <div style="display: flex; flex-direction: row; gap: 12px; margin-top: 16px;">
   <b style="font-size: 20px; position: relative; top: -6px;">socket.io-nats-adapter</b>
@@ -30,7 +32,7 @@
 </div>
 - Typescript based kakao-i-openbuilder query builder
 
-### Service
+## Service
 
 #### Nashot
 - Human Pose Estimation (HPE) based golf coaching application 
@@ -39,4 +41,5 @@
   - [press](http://www.dt.co.kr/contents.html?article_no=2021061002109931650005&ref=naver)
 
 #### Mogakbul
-- preparing...
+- Spend time with people with similar interests!
+  - preparing...
