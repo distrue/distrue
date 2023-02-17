@@ -2,10 +2,10 @@
 
 [![distrue's github stats](https://github-readme-stats.vercel.app/api?username=distrue&show_icons=true&theme=dracula)](https://github.com/distrue)
 
-- Job: Working in [Channel Corporation](https://channel.io) as backend engineer
-- Main skill: developing web services using `java`, `typescript`, and `golang`
-- Confident: architect & porting services to `golang` of pre-implemented in `java` or `nodeJS` in order to improve performance, high availability of service
-- Interest: Love building simple service and serving opensource library.
+- Job: Working in [Devsisters Corp](https://www.devsisters.com/en/) as data platform engineer
+- Recent Interest: `spark`, `k8s`, `Elastic stack`, `IaC`
+- Confident: baremetal engineering by mocking & rebuilding existing opensource projects
+- Familiar: Love building simple service and serving opensource library.
 
 ## Opensource Library
 
@@ -39,7 +39,3 @@
   - [landing page](https://web.nashot.io/home.html)
   - [interview](https://blog.naver.com/sw_maestro/222120877101)
   - [press](http://www.dt.co.kr/contents.html?article_no=2021061002109931650005&ref=naver)
-
-#### Mogakbul
-- Spend time with people with similar interests!
-  - preparing...
