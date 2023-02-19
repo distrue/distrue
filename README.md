@@ -5,7 +5,8 @@
 - Job: Working in [Devsisters Corp](https://www.devsisters.com/en/) as data platform engineer
 - Recent Interest: `spark`, `k8s`, `Elastic stack`, `IaC`
 - Confident: baremetal engineering by mocking & rebuilding existing opensource projects
-- Familiar: Love building simple service and serving opensource library.
+- Familiar: web application development, `AWS` cloud infra setup
+- Hobby: building/maintaining/contributing simple opensource library
 
 ## Opensource Library
 
