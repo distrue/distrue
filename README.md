@@ -1,8 +1,6 @@
 # Yeongil Jung
 
-- Job: Working in [Devsisters Corp](https://www.devsisters.com/en/) as data platform engineer
-  - Taking a role as a DevOps engineer in data platform team. Managing enterprise scale components dedicated to data. Mainly manages and optimizes elastic stack, kafka, and spark clusters for log collection and analysis of game services.
-- Recent friendly tech stack: `kafka`, `spark`, `Elastic stack`, `terraform`, `k8s`
+- Job: Working in [Dalpha](https://www.dalpha.so/en/) as DevOps engineer
 - Confident: baremetal engineering by mocking & rebuilding existing opensource projects
 - Familiar: web application development, `AWS` cloud infra setup
 - Hobby: building/maintaining/contributing simple opensource library
